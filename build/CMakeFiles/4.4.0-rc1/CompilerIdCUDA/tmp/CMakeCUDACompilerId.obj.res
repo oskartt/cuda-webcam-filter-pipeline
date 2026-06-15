@@ -1,0 +1,1 @@
+-D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -D__NV_LEGACY_LAUNCH -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc "-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include"   "C:\Users\oskar\Documents\course-accelerating-apps-nvidia-cuda\templates\cuda-webcam-filter\build\CMakeFiles\4.4.0-rc1\CompilerIdCUDA\tmp\CMakeCUDACompilerId.cudafe1.cpp" 
